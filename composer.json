@@ -1,0 +1,17 @@
+{
+    "name": "elizaveta/composer",
+    "type": "library",
+    "license": "GPL-3.0.only",
+    "autoload": {
+        "psr-4": {
+            "Elizaveta\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elizaveta Fadeeva",
+            "email": "elizafad03@gmail.com"
+        }
+    ],
+    "require": {}
+}
