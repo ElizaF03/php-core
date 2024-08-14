@@ -1,10 +1,10 @@
 {
-    "name": "elizaveta/cor",
+    "name": "elizaveta/core",
     "type": "library",
     "license": "GPL-3.0.only",
     "autoload": {
         "psr-4": {
-            "Elizaveta\\Cor\\": "src/"
+            "Elizaveta\\Core\\": "src/"
         }
     },
     "authors": [

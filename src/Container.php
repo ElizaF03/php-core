@@ -1,6 +1,6 @@
 <?php
 
-namespace Elizaveta\Composer\Cor;
+namespace Core;
 class Container
 {
     private array $services = [];
