@@ -1,7 +1,7 @@
 {
     "name": "elizaveta/core",
     "type": "library",
-    "license": "GPL-3.0.only",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Elizaveta\\Core\\": "src/"
