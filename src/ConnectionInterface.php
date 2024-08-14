@@ -1,6 +1,6 @@
 <?php
 
-namespace Cor;
+namespace Elizaveta\Composer\Cor;
 interface ConnectionInterface
 {
     public static function getInstance();

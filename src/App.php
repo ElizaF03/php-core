@@ -1,6 +1,6 @@
 <?php
 
-namespace Cor;
+namespace Elizaveta\Composer\Cor;
 
 class App
 {

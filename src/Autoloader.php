@@ -1,6 +1,6 @@
 <?php
 
-namespace Cor;
+namespace Elizaveta\Composer\Cor;
 class Autoloader
 {
     public static function registarte(string $path): void

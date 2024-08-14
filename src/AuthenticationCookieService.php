@@ -1,8 +1,8 @@
 <?php
 
-namespace Service;
+namespace Elizaveta\Composer\Cor;
 
-use Model\User;
+
 use Repository\UserRepository;
 
 class AuthenticationCookieService implements AuthenticationInterface
